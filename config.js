@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("Version12/afteraddingRemoteRepo");
+console.log("Version13");
